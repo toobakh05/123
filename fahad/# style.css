@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#logo{
+    width: 3em;
+}
+ul{
+    padding: 2%;
+    display: flex;
+    margin-right: 2em;
+    justify-content: space-between;
+    width: 30em;
+
+}
+li{
+    list-style: none;
+    margin-left: 2em;
+
+}
+a{
+    text-decoration: none;
+}
+#menu{
+    width: 2.5em;
+    height: 3em;
+}
